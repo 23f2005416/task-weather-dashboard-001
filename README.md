@@ -1,7 +1,7 @@
 # Task: task-weather-dashboard-001
 
 ## Overview
-Create a weather dashboard that shows current weather and forecast. Include temperature, humidity, and weather conditions with nice cards and responsive design.
+Add dark mode toggle and city search functionality to the weather dashboard. Also include a favorites section for frequently checked cities.
 
 ## Description
 This project was automatically generated as part of the LLM Code Deployment system.
