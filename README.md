@@ -1,7 +1,7 @@
-# Task: weather-dashboard-001
+# Task: task-weather-dashboard-001
 
 ## Overview
-Create a weather dashboard that shows current weather and 5-day forecast for a city. Include temperature, humidity, and weather icons. Make it visually appealing with cards and responsive design.
+Create a weather dashboard that shows current weather and forecast. Include temperature, humidity, and weather conditions with nice cards and responsive design.
 
 ## Description
 This project was automatically generated as part of the LLM Code Deployment system.
@@ -18,7 +18,7 @@ This project was automatically generated as part of the LLM Code Deployment syst
 
 ## Deployment
 This project is automatically deployed to GitHub Pages. The live site is available at:
-`https://[username].github.io/weather-dashboard-001/`
+`https://[username].github.io/task-weather-dashboard-001/`
 
 ## Technologies Used
 - HTML5
